@@ -51,23 +51,3 @@ npm run dev
 
 - Open http://localhost:3000 in your browser (runs on a different port if arcade-frontend is running)
 
-## Development
-
-### Arcade Frontend
-
-- Access the game interface at `arcade-frontend`
-- Currently set up with a basic "Start Game" button
-- Extend with game-specific UI and logic in `src/app/page.tsx`
-
-### Admin Functions (Admin Frontend)
-
-- **Access**: Load the admin frontend
-- **Add Game**: Enter a new game ID (generate via `solana-keygen new`) and name
-- **Update Cost**: Select a game and enter new cost in Token (converts to lamports)
-- **Game List**: Automatically displays all registered games with IDs and names
-
-### Adding New Games
-
-- Use the admin frontend to add new games
-- Update the arcade frontend to support game-specific interfaces
-- Update the Solana program logic as needed
