@@ -31,7 +31,7 @@ NEXT_PUBLIC_PROGRAM_ID=YOUR_PROGRAM_ID_HERE
 NEXT_PUBLIC_PROJECT_ID=YOUR_REOWN_PROJECT_ID
 ```
 
-### 3. Run the Frontends
+### 2. Run the Frontends
 
 - Arcade Frontend:
 
